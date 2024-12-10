@@ -6,9 +6,9 @@ let content = fs.readFileSync('./generated/api.ts', 'utf8')
 content = content.replace(/\bValidateAddress\b/g, 'ValidateAddressRequest')
 content += `
 export interface PhoneNumber {
-    phone_number: string;
-    requirement_group_id?: string;
-    bundle_id?: string;
+    'phone_number': string;
+    'requirement_group_id'?: string;
+    'bundle_id'?: string;
 }
 `
 fs.writeFileSync('./generated/api.ts', content)

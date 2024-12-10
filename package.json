@@ -1,6 +1,6 @@
 {
   "name": "telnyx-api",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Telnyx Node Client generated using Telnyx OpenAPI spec.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
