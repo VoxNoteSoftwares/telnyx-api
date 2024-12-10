@@ -1,6 +1,6 @@
 {
   "name": "telnyx-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Telnyx Node Client generated using Telnyx OpenAPI spec.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -16,7 +16,7 @@
   "author": "VoxNoteSoftwares",
   "repository": {
     "type": "git",
-    "url": "https://github.com/VoxNoteSoftwares/telnyx-api"
+    "url": "git://github.com/VoxNoteSoftwares/telnyx-api"
   },
   "license": "MIT",
   "dependencies": {
