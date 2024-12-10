@@ -16,7 +16,7 @@
   "author": "VoxNoteSoftwares",
   "repository": {
     "type": "git",
-    "url": "git://github.com/VoxNoteSoftwares/telnyx-api"
+    "url": "git://github.com/VoxNoteSoftwares/telnyx-api.git"
   },
   "license": "MIT",
   "dependencies": {
