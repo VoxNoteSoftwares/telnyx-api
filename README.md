@@ -13,7 +13,7 @@ npm install telnyx-api --save
 ## Usage
 
 The package needs to be configured with your account's API key which is
-available in your the [Telnyx Mission Control Portal][api-keys]. Require it with the key's
+available in your the [Telnyx Mission Control Portal](https://portal.telnyx.com). Require it with the key's
 value:
 
 ``` ts
